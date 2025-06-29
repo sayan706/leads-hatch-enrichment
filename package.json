@@ -1,0 +1,22 @@
+{
+   "type": "module",
+   "main": "server.js",
+   "name": "hatchnumberenrich-and-update",
+   "version": "1.0.0",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "description": "",
+   "dependencies": {
+      "@supabase/supabase-js": "^2.50.2",
+      "axios": "^1.10.0",
+      "cors": "^2.8.5",
+      "dayjs": "^1.11.13",
+      "dotenv": "^17.0.0",
+      "express": "^5.1.0",
+      "p-limit": "^6.2.0"
+   }
+}
